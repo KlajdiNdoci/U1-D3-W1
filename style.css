@@ -1,0 +1,78 @@
+.logo-section {
+  text-align: center;
+}
+
+.logo-img {
+  width: 200px;
+}
+
+.logo-subtext {
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+  background-color: rgb(253, 251, 241);
+  border-top: 3px solid rgb(254, 232, 175);
+  color: rgb(0, 77, 76);
+  margin-top: 20px;
+}
+
+.content {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.title {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.comment {
+  margin-top: 25px;
+}
+
+.focaccia {
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 9px 8px 10px -9px;
+}
+
+.image-source {
+  text-align: center;
+  font-size: large;
+  color: rgb(156, 156, 156);
+}
+
+.featured {
+  color: rgb(211, 25, 25);
+  font-weight: 700;
+  border-left: 3px solid rgb(254, 232, 175);
+  padding-left: 18px;
+}
+
+.ingredients {
+  margin-top: 40px;
+  font-size: large;
+}
+
+.divisors {
+  height: 1px;
+  background-color: aquamarine;
+}
+
+.lists {
+  line-height: 28px;
+}
+
+.method {
+  margin-top: 40px;
+  font-size: large;
+}
+
+h4 {
+  padding-left: 25px;
+  font-size: large;
+}
+
+.method-description {
+  padding-left: 45px;
+}
